@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+*.db diff=sqlite3
+
+scripts/Makefile.* linguist-language=Makefile
